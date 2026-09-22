@@ -1,7 +1,7 @@
 # Combined Mean-Reversion/Momentum Strategy
 
 ## Key results:
-2.45 gross Sharpe (1.55 mean-reversion only, 2.27 momentum only)
+2.45 gross Sharpe (1.55 mean-reversion only, 2.27 momentum only), 0.46 cost-adjusted Sharpe
 
 ## Dependencies:
 python-binance, pandas, numpy, sklearn, statsmodels, cvxpy
